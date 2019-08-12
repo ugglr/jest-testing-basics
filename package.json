@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing-basics",
+  "version": "1.0.0",
+  "description": "jest-testing-basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugglr/jest-testing-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugglr/jest-testing-basics/issues"
+  },
+  "homepage": "https://github.com/ugglr/jest-testing-basics#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
